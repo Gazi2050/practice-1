@@ -1,0 +1,32 @@
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.style-work-1 {
+    background-image: url(images/donation7.jpg);
+    backdrop-filter: blur(3px);
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+
+
+
+
+
+}
+
+
+
+
+
+.button-1 {
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10px;
+    background-image: repeating-linear-gradient(rgb(240, 105, 105), orange);
+    width: 50px;
+    padding: 10px;
+    color: aliceblue;
+    font-weight: 400;
+}
