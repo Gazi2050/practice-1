@@ -70,3 +70,33 @@ body {
     font-weight: 700;
 
 }
+
+.margin2 {
+    margin-left: 43%;
+    margin-top: 10%;
+    margin-bottom: -6.5%;
+    font-size: 20px;
+    color: gray;
+
+}
+
+.margin3 {
+    margin-top: 7%;
+    width: 50%;
+
+}
+
+.button-3 {
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 10px;
+    background-image: repeating-linear-gradient(rgb(240, 105, 105), orange);
+    width: 50px;
+    padding: 10px;
+    color: aliceblue;
+    font-weight: 400;
+    margin-left: 43%;
+    font-size: xx-large;
+
+
+}
