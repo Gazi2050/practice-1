@@ -1,6 +1,6 @@
 body {
     font-family: 'PT Sans Narrow', sans-serif;
-    margin: 0;
+    margin: 0%;
 
 
 
@@ -228,6 +228,19 @@ body {
     margin-bottom: 5%;
 
 }
+
+.style-work14 {
+    background-image: url(seamless-pattern-food-refrigerators-doodle_542572-83\ \(1\).jpg);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+    color: black;
+    padding: 20px;
+
+}
+
+
+
 
 .end {
     background-color: black;
